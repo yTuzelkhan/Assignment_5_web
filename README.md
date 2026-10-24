@@ -2,8 +2,7 @@
 
 **Student Name:** Yermek Tuzelkhan  
 **Group:** IT-2513  
-**GitHub Repository: https://github.com/yTuzelkhan/Assignment_5_web/tree/main**  
-**GitHub Pages Link:** 
+**GitHub Pages Link: https://ytuzelkhan.github.io/Assignment_5_web/** 
 
 ---
 
