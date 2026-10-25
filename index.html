@@ -90,6 +90,7 @@
             document.getElementById("displayMonths").textContent = age * 12;
             document.getElementById("displayDev").textContent = userProfile.isDeveloper ? "Yes" : "No";
             document.getElementById("displayHobbiesCount").textContent = userProfile.hobbies.length;
+            console.log("User Profile:", userProfile, "Age:", age);
         }
 
         function renderHobbies() {
